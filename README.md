@@ -1,55 +1,141 @@
+<div align="center">
+
 # Unai Vidal Viso
 
 **Senior Frontend Developer** · React · TypeScript · AI Workflows
 
-Barcelona → Remote
+[![Portfolio](https://img.shields.io/badge/unaividal.com-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://unaividal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/unai-vidal-viso)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vidalvisounai@gmail.com)
+
+</div>
 
 ---
 
 Llevo desde 2015 construyendo productos digitales: webs, apps móviles, videojuegos, IoT. Hoy trabajo principalmente en el frontend con React y TypeScript, con foco en arquitectura limpia y en integrar IA de forma real en el flujo de trabajo del equipo.
 
-No hablo de AI de forma teórica. La uso en producción, con MCP Servers personalizados, revisión automática de código con GGA y memoria persistente entre sesiones con Engram.
+No hablo de AI de forma teórica. La uso en producción — MCP Servers personalizados, revisión automática de código con GGA y memoria persistente entre sesiones con Engram.
 
 ---
 
-## Stack principal
+## Stack
 
-**Frontend** · React · Next.js · React Native · TypeScript · Tailwind CSS · Framer Motion · Vite · Tauri
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055ff?style=flat-square&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=flat-square&logo=tauri&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-ef4444?style=flat-square&logo=turborepo&logoColor=white)
 
-**Arquitectura** · Clean Architecture · Atomic Design · Hexagonal · SOLID · Monorepo (Turborepo)
+**Arquitectura** · Clean Architecture · Atomic Design · Hexagonal · SOLID · Monorepo
 
-**AI & Herramientas** · MCP Servers · GGA · Engram · Prompt Engineering · AI Workflows en equipo
-
----
-
-## Lo que hago distinto
-
-La mayoría de los developers usan AI como autocomplete avanzado. Yo la integro como infraestructura:
-
-- **MCP Servers** propios que dan al AI contexto real del proyecto: estructura, convenciones, decisiones técnicas
-- **GGA** como guardia de arquitectura: cada commit es revisado automáticamente contra las reglas del equipo antes de llegar a review humano
-- **Engram** para que el AI recuerde el proyecto entre sesiones — decisiones, bugs resueltos, patrones establecidos
-
-El resultado es un equipo donde el AI no interrumpe — colabora.
+**AI** · MCP Servers · GGA · Engram · Prompt Engineering · AI Workflows en equipo
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
-| Proyecto | Stack | Descripción |
-|---|---|---|
-| [LoL Professor](https://github.com/unaivv/lol-professor) | Tauri · Rust · React · Riot API | App de escritorio para análisis de partidas en League of Legends en tiempo real |
-| [Portfolio](https://unaividal.com) | Next.js 15 · TypeScript · Framer Motion | Este portfolio — arquitectura Atomic Design, i18n, deploy en Raspberry Pi con CI/CD |
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ expo-nextjs-monorepo
+Monorepo starter con Expo 53, Next.js 15, better-auth, NativeWind, shadcn/ui y Turborepo. Web y mobile compartiendo código real.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-ef4444?style=flat-square&logo=turborepo&logoColor=white)
+
+[→ Ver repo](https://github.com/unaivv/expo-nextjs-monorepo)
+
+</td>
+<td width="50%">
+
+### 🎮 lol-profesor
+App de escritorio para análisis de partidas de League of Legends en tiempo real. Construida con Tauri + Rust + React sobre la Riot API.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=flat-square&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+[→ Ver repo](https://github.com/unaivv/lol-profesor)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🥗 NutriUnai
+Chat con IA para generar planes de comida personalizados a partir de una dieta dada. Integración directa con LLM.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![AI](https://img.shields.io/badge/LLM_Integration-34d399?style=flat-square)
+
+[→ Ver repo](https://github.com/unaivv/NutriUnai)
+
+</td>
+<td width="50%">
+
+### 🏠 Houser
+Prototipo de buscador de piso con sistema de match — como Tinder pero para encontrar compañeros de piso compatibles.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+
+[→ Ver repo](https://github.com/unaivv/houser)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 ariplay-receiver
+Receptor AirPlay implementado en C. Proyecto de bajo nivel para streaming de audio desde dispositivos Apple.
+
+![C](https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white)
+
+[→ Ver repo](https://github.com/unaivv/ariplay-receiver)
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio
+Este portfolio — Next.js 15, Framer Motion, Atomic Design, i18n ES/EN, deploy en Raspberry Pi con CI/CD propio.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+[→ Ver en vivo](https://unaividal.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=unaivv&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=a1a1aa&icon_color=6366f1" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaivv&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=a1a1aa&langs_count=6" />
+
+</div>
 
 ---
 
 ## Últimos posts
 
-- [IA en el flujo de trabajo real: MCP Servers, GGA y Engram](https://unaividal.com/blog/ia-workflow-mcp-gga-engram)
-- [Arquitectura frontend escalable: React + TypeScript + Turborepo](https://unaividal.com/blog/arquitectura-frontend-react-turborepo)
+- [**IA en el flujo de trabajo real: MCP Servers, GGA y Engram**](https://unaividal.com/blog/ia-workflow-mcp-gga-engram) — Cómo integrar AI como infraestructura de equipo, no como autocomplete
+- [**Arquitectura frontend escalable: React + TypeScript + Turborepo**](https://unaividal.com/blog/arquitectura-frontend-react-turborepo) — Monorepo real, retos reales, errores incluidos
 
 ---
 
-## Dónde encontrarme
+<div align="center">
 
-[unaividal.com](https://unaividal.com) · [LinkedIn](https://linkedin.com/in/unai-vidal-viso) · vidalvisounai@gmail.com
+[unaividal.com](https://unaividal.com) · Barcelona → Remote · Disponible para proyectos interesantes
+
+</div>
