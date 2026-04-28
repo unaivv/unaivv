@@ -24,7 +24,7 @@ No hablo de AI de forma teórica. La uso en producción — MCP Servers personal
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS_nativo-1572b6?style=flat-square&logo=css3&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055ff?style=flat-square&logo=framer&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=flat-square&logo=tauri&logoColor=black)
@@ -129,13 +129,15 @@ Este portfolio — Next.js 15, Framer Motion, Atomic Design, i18n ES/EN, deploy 
 
 ## Últimos posts
 
+<!-- POSTS_START -->
 - [**IA en el flujo de trabajo real: MCP Servers, GGA y Engram**](https://unaividal.com/blog/ia-workflow-mcp-gga-engram) — Cómo integrar AI como infraestructura de equipo, no como autocomplete
 - [**Arquitectura frontend escalable: React + TypeScript + Turborepo**](https://unaividal.com/blog/arquitectura-frontend-react-turborepo) — Monorepo real, retos reales, errores incluidos
+<!-- POSTS_END -->
 
 ---
 
 <div align="center">
 
-[unaividal.com](https://unaividal.com) · Barcelona → Remote · Disponible para proyectos interesantes
+[unaividal.com](https://unaividal.com) · Málaga → Remote · Disponible para proyectos interesantes
 
 </div>
