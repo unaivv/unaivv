@@ -130,10 +130,10 @@ Este portfolio — Next.js 15, Framer Motion, Atomic Design, i18n ES/EN, deploy 
 ## Últimos posts
 
 <!-- POSTS_START -->
-- [****](https://unaividal.com/Tired of paid AirPlay apps. So I built my own.|||Every decent AirPlay receiver app for Android TV is paid, full of ads, or hasn't been updated since 2019. I built mine: installs directly on Google TV or Android TV and works as a native AirPlay receiver.|||en/blog/airplay-receiver-open-source) — 
-- [****](https://unaividal.com/IA en el flujo de trabajo real: MCP Servers, GGA y memoria persistente con Engram|||Cómo transformé el workflow de un equipo de desarrollo con MCP Servers personalizados, revisión automática de código con GGA y memoria persistente entre sesiones con Engram. Casos de uso reales, no teoría.|||blog/ia-workflow-mcp-gga-engram) — 
-- [****](https://unaividal.com/Harto de las apps de AirPlay de pago. La construí yo.|||Cada app decente de AirPlay receiver para Android TV es de pago, tiene anuncios o lleva años sin mantenimiento. Construí la mía: se instala directamente en el Google TV o Android TV y funciona como receptor AirPlay nativo.|||blog/airplay-receiver-open-source) — 
-- [****](https://unaividal.com/Arquitectura frontend escalable: React, React Native, TypeScript estricto y Turborepo|||Cómo diseñar un monorepo que comparte código real entre web y mobile, mantiene TypeScript estricto en todos los paquetes, y no colapsa bajo su propio peso. Retos reales, decisiones reales, errores incluidos.|||blog/arquitectura-frontend-react-turborepo) —
+- [**Tired of paid AirPlay apps. So I built my own.**](https://unaividal.com/en/blog/airplay-receiver-open-source) — Every decent AirPlay receiver app for Android TV is paid, full of ads, or hasn't been updated since 2019. I built mine: installs directly on Google TV or Android TV and works as a native AirPlay receiver.
+- [**Harto de las apps de AirPlay de pago. La construí yo.**](https://unaividal.com/blog/airplay-receiver-open-source) — Cada app decente de AirPlay receiver para Android TV es de pago, tiene anuncios o lleva años sin mantenimiento. Construí la mía: se instala directamente en el Google TV o Android TV y funciona como receptor AirPlay nativo.
+- [**IA en el flujo de trabajo real: MCP Servers, GGA y memoria persistente con Engram**](https://unaividal.com/blog/ia-workflow-mcp-gga-engram) — Cómo transformé el workflow de un equipo de desarrollo con MCP Servers personalizados, revisión automática de código con GGA y memoria persistente entre sesiones con Engram. Casos de uso reales, no teoría.
+- [**Arquitectura frontend escalable: React, React Native, TypeScript estricto y Turborepo**](https://unaividal.com/blog/arquitectura-frontend-react-turborepo) — Cómo diseñar un monorepo que comparte código real entre web y mobile, mantiene TypeScript estricto en todos los paquetes, y no colapsa bajo su propio peso. Retos reales, decisiones reales, errores incluidos.
 <!-- POSTS_END -->
 
 ---
