@@ -130,8 +130,9 @@ Este portfolio — Next.js 15, Framer Motion, Atomic Design, i18n ES/EN, deploy 
 ## Últimos posts
 
 <!-- POSTS_START -->
-- [**IA en el flujo de trabajo real: MCP Servers, GGA y Engram**](https://unaividal.com/blog/ia-workflow-mcp-gga-engram) — Cómo integrar AI como infraestructura de equipo, no como autocomplete
-- [**Arquitectura frontend escalable: React + TypeScript + Turborepo**](https://unaividal.com/blog/arquitectura-frontend-react-turborepo) — Monorepo real, retos reales, errores incluidos
+- [****](https://unaividal.com/blog/IA en el flujo de trabajo real: MCP Servers, GGA y memoria persistente con Engram|||Cómo transformé el workflow de un equipo de desarrollo con MCP Servers personalizados, revisión automática de código con GGA y memoria persistente entre sesiones con Engram. Casos de uso reales, no teoría.|||ia-workflow-mcp-gga-engram) — 
+- [****](https://unaividal.com/blog/Harté de las apps de AirPlay de pago. Lo construí yo.|||Cada app decente de AirPlay receiver es de pago, tiene anuncios o lleva años sin mantenimiento. Decidí construir la mía, abierta y sin basura. Así fue el proceso.|||airplay-receiver-open-source) — 
+- [****](https://unaividal.com/blog/Arquitectura frontend escalable: React, React Native, TypeScript estricto y Turborepo|||Cómo diseñar un monorepo que comparte código real entre web y mobile, mantiene TypeScript estricto en todos los paquetes, y no colapsa bajo su propio peso. Retos reales, decisiones reales, errores incluidos.|||arquitectura-frontend-react-turborepo) —
 <!-- POSTS_END -->
 
 ---
